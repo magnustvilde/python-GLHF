@@ -2,3 +2,5 @@
 
 for i in ('awesome'):
     print(i)
+
+# en ny endring som vi venter med å merge inn i main/master-branch
