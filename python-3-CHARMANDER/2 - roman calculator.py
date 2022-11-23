@@ -13,6 +13,7 @@ Roman values:
 L = 50, XC = 90, C = 100, D = 500, M = 1000
 '''
 def write_a_number():
+    print('I want to add this line!')
     num = int(input('Write a number: '))
     return num
 
