@@ -7,3 +7,5 @@ print('my new lines of code, straight into the MASTER-branch')
 print('my new lines of code, straight into the MASTER-branch')
 print('my new lines of code, straight into the MASTER-branch')
 print('lets merge these bad-boys')
+
+# en ny endring som vi venter med å merge inn i main/master-branch
