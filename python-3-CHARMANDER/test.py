@@ -2,3 +2,8 @@
 
 for i in ('awesome'):
     print(i)
+
+print('my new lines of code, straight into the MASTER-branch')
+print('my new lines of code, straight into the MASTER-branch')
+print('my new lines of code, straight into the MASTER-branch')
+print('lets merge these bad-boys')
